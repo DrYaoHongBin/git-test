@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T12:53:21.455Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.5.2" etag="Gkoto7vKaVWjPfmKmmZb" type="github"><diagram id="LjJNy1KhyaF-_5ZMsWzb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-30T12:55:04.086Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Frs_VcKZCspUVcdLUWgg" version="16.5.2" type="github">
+  <diagram id="LjJNy1KhyaF-_5ZMsWzb" name="Page-1">
+    <mxGraphModel dx="946" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wQMxx00EwE0wNeBoWAGE-1" value="Serial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wQMxx00EwE0wNeBoWAGE-2" value="ParNew" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wQMxx00EwE0wNeBoWAGE-3" value="Parallel Scavange" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
